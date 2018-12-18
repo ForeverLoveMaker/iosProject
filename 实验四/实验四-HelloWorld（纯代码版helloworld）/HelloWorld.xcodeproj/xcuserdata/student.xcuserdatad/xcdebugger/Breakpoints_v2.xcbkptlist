@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWorld/AppDelegate.swift"
+            timestampString = "562903314.211978"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.__allocating_init() -&gt; HelloWorld.AppDelegate"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "566533487.6292911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.init() -&gt; HelloWorld.AppDelegate"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "566533487.630816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.__deallocating_deinit"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "566533487.632459"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "566533487.634033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWorld/AppDelegate.swift"
+            timestampString = "562903314.212061"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.__allocating_init() -&gt; HelloWorld.AppDelegate"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "562902955.504308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.init() -&gt; HelloWorld.AppDelegate"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "562902955.505733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.AppDelegate.__deallocating_deinit"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "562902955.5071681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "HelloWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MY%20LIFE/ios/iOS%E4%BD%9C%E4%B8%9A/%E5%AE%9E%E9%AA%8C%E4%BA%94-HelloWorld%EF%BC%88%E7%BA%AF%E4%BB%A3%E7%A0%81%E7%89%88helloworld%EF%BC%89/HelloWorld/AppDelegate.swift"
+                  timestampString = "562902955.508593"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
